@@ -35,7 +35,7 @@ function divAddEventListener() {
         case "rgba(0, 0, 0, 0.3)":
           div.style.backgroundColor = "rgba(0, 0, 0, 0.4)";
           break;
-        case "rgba(0,0,0,0.4)":
+        case "rgba(0, 0, 0, 0.4)":
           div.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
           break;
         case "rgba(0, 0, 0, 0.5)":
