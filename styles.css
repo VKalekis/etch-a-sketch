@@ -1,0 +1,17 @@
+#container {
+  width: 600px;
+  height: 600px;
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  grid-template-rows: repeat(16, 1fr);
+  margin: auto;
+  background-color: white;
+}
+
+.class1 {
+  border: 1px solid black;
+  padding: 5px;
+  padding-right: 5px;
+  background-color: rgba(0, 0, 0, 0);
+}
